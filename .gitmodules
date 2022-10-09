@@ -4,3 +4,9 @@
 [submodule "corne-light/pcb/kbd"]
 	path = corne-light/pcb/kbd
 	url = https://github.com/foostan/kbd
+[submodule "nice-nano-kicad"]
+	path = nice-nano-kicad
+	url = https://github.com/bstiq/nice-nano-kicad
+[submodule "cho-corne-ice/pcb/nice-nano-kicad"]
+	path = cho-corne-ice/pcb/nice-nano-kicad
+	url = https://github.com/bstiq/nice-nano-kicad
