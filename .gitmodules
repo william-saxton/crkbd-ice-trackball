@@ -10,3 +10,6 @@
 [submodule "cho-corne-ice/pcb/nice-nano-kicad"]
 	path = cho-corne-ice/pcb/nice-nano-kicad
 	url = https://github.com/bstiq/nice-nano-kicad
+[submodule "cho-corne-ice/pcb/keyboards"]
+	path = cho-corne-ice/pcb/keyboards
+	url = https://github.com/cyril279/keyboards
