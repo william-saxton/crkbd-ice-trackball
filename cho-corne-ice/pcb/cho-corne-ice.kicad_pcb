@@ -9635,7 +9635,7 @@
 
   (footprint "keeblib:switch_SSSS811101" (layer "B.Cu")
     (tedit 619683B3) (tstamp 59d9aea5-4eb9-487b-8968-040f4555b466)
-    (at 161.9625 29.076)
+    (at 161.9625 28.9744)
     (property "Sheetfile" "File: cho-corne-ice.kicad_sch")
     (property "Sheetname" "")
     (path "/143fd198-be21-46e2-9fb3-1885a25e93e1")
@@ -9673,7 +9673,7 @@
 
   (footprint "keeblib:switch_SSSS811101" (layer "B.Cu")
     (tedit 619683B3) (tstamp 7733381b-30ba-4ebe-9f1f-4b90a9670881)
-    (at 134.693787 29.076)
+    (at 134.693787 28.9744)
     (property "Sheetfile" "File: cho-corne-ice.kicad_sch")
     (property "Sheetname" "")
     (path "/c4ae925a-e751-48cc-b685-a4bdffc8b40b")
