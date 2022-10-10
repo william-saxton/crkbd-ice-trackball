@@ -13,3 +13,6 @@
 [submodule "cho-corne-ice/pcb/keyboards"]
 	path = cho-corne-ice/pcb/keyboards
 	url = https://github.com/cyril279/keyboards
+[submodule "cho-corne-ice/pcb/kbd"]
+        path = cho-corne-ice/pcb/kbd
+        url = https://github.com/foostan/kbd
