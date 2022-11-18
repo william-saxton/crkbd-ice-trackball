@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "corne-chocolate-rescue")(type "Legacy")(uri "${KIPRJMOD}/corne-chocolate-rescue.lib")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "/Users/nick/git/github.com/e3b0c442/crkbd/corne-cherry/pcb/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+)

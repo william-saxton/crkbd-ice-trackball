@@ -6,9 +6,9 @@
 
   (title_block
     (title "Cho-Corne-Ice")
-    (date "2020-09-28")
-    (rev "3.0.1")
-    (company "foostan & e3b0c442")
+    (date "2022-11-18")
+    (rev "v0.2")
+    (company "foostan/e3b0c442")
   )
 
   (lib_symbols
@@ -3537,7 +3537,7 @@
     (property "Value" "nice_nano" (id 1) (at 45.72 24.13 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "kbd:ProMicro_v3.5" (id 2) (at 72.39 107.95 90)
+    (property "Footprint" "kbd:ProMicro_v3" (id 2) (at 72.39 107.95 90)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 72.39 107.95 90)
@@ -3581,7 +3581,7 @@
     (property "Value" "nice_nano" (id 1) (at 48.26 142.24 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "kbd:ProMicro_v3.5" (id 2) (at 74.93 226.06 90)
+    (property "Footprint" "kbd:ProMicro_v3" (id 2) (at 74.93 226.06 90)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 74.93 226.06 90)
@@ -3995,10 +3995,10 @@
       (reference "SW42") (unit 1) (value "SW_PUSH") (footprint "kbd:ChocV1_V2_Hotswap_1.5u")
     )
     (path "/ce793b9a-acc0-4fe7-8442-3462bee6f436"
-      (reference "U1") (unit 1) (value "nice_nano") (footprint "kbd:ProMicro_v3.5")
+      (reference "U1") (unit 1) (value "nice_nano") (footprint "kbd:ProMicro_v3")
     )
     (path "/da44033a-0246-4bfa-820f-af5b696ffd2c"
-      (reference "U2") (unit 1) (value "nice_nano") (footprint "kbd:ProMicro_v3.5")
+      (reference "U2") (unit 1) (value "nice_nano") (footprint "kbd:ProMicro_v3")
     )
   )
 )
