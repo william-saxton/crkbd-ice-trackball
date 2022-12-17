@@ -20,7 +20,7 @@ _autosave-*
 *-rescue.lib
 *-rescue.dcm
 fp-info-cache
-gerber/
+# gerber/
 
 # Netlist files (exported from Eeschema)
 *.net
