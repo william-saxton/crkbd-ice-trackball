@@ -1,11 +1,11 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.8-1)-1*
-G04 #@! TF.CreationDate,2022-10-24T21:20:46-05:00*
-G04 #@! TF.ProjectId,cho-corne-ice,63686f2d-636f-4726-9e65-2d6963652e6b,3.0.1*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9-0)*
+G04 #@! TF.CreationDate,2022-12-17T09:40:31-06:00*
+G04 #@! TF.ProjectId,cho-corne-ice,63686f2d-636f-4726-9e65-2d6963652e6b,v0.2*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.8-1)-1) date 2022-10-24 21:20:46*
+G04 Created by KiCad (PCBNEW (6.0.9-0)) date 2022-12-17 09:40:31*
 %MOMM*%
 %LPD*%
 G01*

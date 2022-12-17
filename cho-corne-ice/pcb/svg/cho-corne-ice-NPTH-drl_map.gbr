@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.8-1)-1*%
-%TF.CreationDate,2022-10-24T21:26:31-05:00*%
-%TF.ProjectId,cho-corne-ice,63686f2d-636f-4726-9e65-2d6963652e6b,3.0.1*%
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9-0)*%
+%TF.CreationDate,2022-12-17T09:41:53-06:00*%
+%TF.ProjectId,cho-corne-ice,63686f2d-636f-4726-9e65-2d6963652e6b,v0.2*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Drillmap*%
 %TF.FilePolarity,Positive*%
 %FSLAX45Y45*%
 G04 Gerber Fmt 4.5, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.8-1)-1) date 2022-10-24 21:26:31*
+G04 Created by KiCad (PCBNEW (6.0.9-0)) date 2022-12-17 09:41:53*
 %MOMM*%
 %LPD*%
 G01*
