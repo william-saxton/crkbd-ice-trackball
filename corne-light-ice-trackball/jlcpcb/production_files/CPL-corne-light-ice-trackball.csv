@@ -1,0 +1,17 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J3,BAT,JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,68.673,3.9905,-90.0,top
+J3,BAT,JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,100.083,3.8705,90.0,top
+J5,Breakaway_Tabs,Breakaway_Tabs,-52.64325,-1.6945,0.0,top
+J5,Breakaway_Tabs,Breakaway_Tabs,-14.655,-1.6945,0.0,top
+J5,Breakaway_Tabs,Breakaway_Tabs,-14.552,59.7155,0.0,top
+J5,Breakaway_Tabs,Breakaway_Tabs,23.418,59.7155,0.0,top
+J5,Breakaway_Tabs,Breakaway_Tabs,145.715653,59.7055,0.0,top
+J5,Breakaway_Tabs,Breakaway_Tabs,183.735653,59.7155,0.0,top
+J5,Breakaway_Tabs,Breakaway_Tabs,221.765653,-1.7045,0.0,top
+J5,Breakaway_Tabs,Breakaway_Tabs,183.765653,-1.7045,0.0,top
+J7,PWM3360,PinHeader_1x07_P2.54mm_Vertical,102.413,17.2405,-90.0,top
+J7,PWM3360,PinHeader_1x07_P2.54mm_Vertical,67.463,17.1805,-90.0,top
+PSW2,POWER,switch_SSSS811101,101.873,52.2405,180.0,bottom
+PSW2,POWER,switch_SSSS811101,67.223,52.1805,180.0,bottom
+U1,ProMicro,nice_nano,101.989857,36.0405,270.0,bottom
+U1,ProMicro,nice_nano,67.039857,35.9805,270.0,bottom

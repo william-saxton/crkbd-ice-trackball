@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC
+Breakaway_Tabs,J5,Breakaway_Tabs,
+PWM3360,J7,PinHeader_1x07_P2.54mm_Vertical,
+BAT,J3,JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,
+ProMicro,U1,nice_nano,
+POWER,PSW2,switch_SSSS811101,
